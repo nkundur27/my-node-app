@@ -7,6 +7,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000, '0.0.0.0', () => {
-  console.log(`Server running at http:// 192.168.29.226:3000`);
+  console.log(`Server running at http:// 13.203.103.17:3000`);
 });
 
